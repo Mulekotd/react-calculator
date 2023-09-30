@@ -6,7 +6,7 @@ The simple-react-calculator is a straightforward calculator application built wi
 
 ## Library Choice: React
 
-![react](https://o.remove.bg/downloads/3168f686-ebc1-4a36-9d87-55d36ea80c88/reactjs-ar21-removebg-preview.png)
+![react](https://o.remove.bg/downloads/3168f686-ebc1-4a36-9d87-55d36ea80c88/reactjs-ar21-removebg-preview.png](https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png)
 
 I chose to build the Simple React Calculator using the React library due to its numerous advantages for building user interfaces. React is widely adopted in the web development community for its simplicity, component-based architecture, and efficient rendering. Here are a few reasons why React was a suitable choice for this project:
 
