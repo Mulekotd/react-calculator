@@ -1,4 +1,4 @@
-# Simple React Calculator
+# React Calculator
 
 ## Overview
 
