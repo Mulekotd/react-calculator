@@ -29,9 +29,9 @@ Follow these steps to set up and run the Simple React Calculator on your local d
 Use the following commands to clone the project's repository from GitHub and navigate to the project directory:
 
 ```bash
-git clone https://github.com/Mulekotd/simple-react-calculator.git
+git clone https://github.com/Mulekotd/react-calculator.git
 
-cd simple-react-calculator
+cd react-calculator
 ```
 
 **2.  Install Dependencies**
@@ -50,11 +50,11 @@ Start the development server to run the Simple React Calculator:
 npm run dev
 ```
 
-The calculator should now be accessible in your web browser at http://localhost:5173/simple-react-calculator/.
+The calculator should now be accessible in your web browser at http://localhost:5173/react-calculator/.
 
 ## Usage
 
-Once the project is up and running, you can use the [Simple React Calculator](https://mulekotd.github.io/simple-react-calculator/) to perform calculations. Here are some basic instructions on how to use it:
+Once the project is up and running, you can use the [Simple React Calculator](https://mulekotd.github.io/react-calculator/) to perform calculations. Here are some basic instructions on how to use it:
 
 1. Open your web browser and navigate to http://localhost:5173/simple-react-calculator/ (or the appropriate address if you modified the configuration).
 
@@ -70,12 +70,6 @@ Once the project is up and running, you can use the [Simple React Calculator](ht
 
 7. Enjoy using the Simple React Calculator for your basic arithmetic needs.
 
-## License
-
-This project is open-source and is provided under the MIT License. You are free to use and modify it as needed. Feel free to contribute to the project or report any issues on the GitHub repository.
-
-![mit](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1920px-MIT_logo.svg.png)
-
 ## Feedback and Contributions
 
-We welcome feedback, suggestions, and contributions from the community. If you have ideas for improvements or encounter any issues, please don't hesitate to [open an issue](https://github.com/Mulekotd/simple-react-calculator/issues) on GitHub.
+We welcome feedback, suggestions, and contributions from the community. If you have ideas for improvements or encounter any issues, please don't hesitate to [open an issue](https://github.com/Mulekotd/react-calculator/issues) on GitHub.
