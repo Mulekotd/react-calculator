@@ -54,21 +54,17 @@ The calculator should now be accessible in your web browser at http://localhost:
 
 ## Usage
 
-Once the project is up and running, you can use the [Simple React Calculator](https://mulekotd.github.io/react-calculator/) to perform calculations. Here are some basic instructions on how to use it:
+Once the project is up and running, you can use the [React Calculator](https://mulekotd.github.io/react-calculator/) to perform calculations. Here are some basic instructions on how to use it:
 
-1. Open your web browser and navigate to http://localhost:5173/simple-react-calculator/ (or the appropriate address if you modified the configuration).
+1. Use the buttons for addition (+), subtraction (-), multiplication (*), and division (/) to perform arithmetic operations.
 
-2. The calculator interface should be displayed, allowing you to enter numbers and perform calculations.
+2. Enter numbers using the numeric keypad on the interface.
 
-3. Use the buttons for addition (+), subtraction (-), multiplication (*), and division (/) to perform arithmetic operations.
+3. Click the "=" button to see the result of the calculation.
 
-4. Enter numbers using the numeric keypad on the interface.
+4. To clear the input or result, use the "C" button.
 
-5. Click the "=" button to see the result of the calculation.
-
-6. To clear the input or result, use the "C" button.
-
-7. Enjoy using the Simple React Calculator for your basic arithmetic needs.
+5. Enjoy using the Simple React Calculator for your basic arithmetic needs.
 
 ## Feedback and Contributions
 
